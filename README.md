@@ -2,8 +2,6 @@
 
 ### Software Engineer | Frontend developer | Problem Solver
 
-<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=hammaday376)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="left"> <a href="https://twitter.com/ha2610915" target="blank"><img src="https://img.shields.io/twitter/follow/Hammad Ali?logo=twitter&style=for-the-badge" alt="Hammad Ali" /></a> </p>
 
 - 🔭 I'm currently working on **Front End Dev**
