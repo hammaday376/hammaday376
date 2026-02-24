@@ -27,11 +27,11 @@
 </p>
 
 ---
-## 🛠️ Tech Stack & Skills
+##  Tech Stack / Skills
 
 <div align="center">
 
-### 💻 Programming Languages
+###  Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -66,9 +66,9 @@
 </div>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammaday376&" alt="hammaday376" /></p>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammaday376&" alt="hammaday376" /></p>
 
-### s Contributions
+### Contributions
 ![Contribution](https://github.com/ProgrammerDATCH/ProgrammerDATCH/blob/output/github-contribution-grid-snake-dark.svg)
 
 > Turning ideas into reliable, well-structured code
