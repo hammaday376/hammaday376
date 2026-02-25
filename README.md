@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/ha2610915" target="blank"><img src="https://img.shields.io/twitter/follow/Hammad Ali?logo=twitter&style=for-the-badge" alt="Hammad Ali" /></a> </p>
 
-- 🔭 I'm currently working on **Front End Dev**
+- 🔭 I'm currently working on **Front End**
 
 - 🌱 I'm currently learning **Backend Dev Node.js/ Express.js**
 
@@ -20,7 +20,6 @@
 <p align="left">
 <a href="https://github.com/hammaday376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="hammaday376" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hammadali123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hammadali123" height="30" width="40" /></a>
-<a href="https://kaggle.com/hamaad006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hamaad006" height="30" width="40" /></a>
 <a href="https://fb.com/hammadali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hammadali" height="30" width="40" /></a>
 <a href="https://instagram.com/oye_hamaadayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oye_hamaadayy" height="30" width="40" /></a>
 <a href="https://twitter.com/hamaadayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamaadayy" height="30" width="40" /></a>
