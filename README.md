@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **hammadofficial2k3@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://hammad-376.netlify.app/](https://hammad-376.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[https://devhamaad.netlify.app]([https://hammad-376.netlify.app/](https://devhamaad.netlify.app))**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1McDiIbGBaVPlJJJ07ijHLqVcDVbs_FJY/view?usp=sharing](https://drive.google.com/file/d/1McDiIbGBaVPlJJJ07ijHLqVcDVbs_FJY/view?usp=sharing)**
 
